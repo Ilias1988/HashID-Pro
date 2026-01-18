@@ -5,6 +5,14 @@ A powerful command-line hash identification tool that analyzes hash strings and 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Screenshots
+
+### Single Match (SHA-256)
+![Single Match - SHA-256](hashid_pro/screenshots/demo-preview.png)
+
+### Collision Detection (MD5 vs NTLM)
+![Collision Detection - MD5 vs NTLM](hashid_pro/screenshots/demo-collision.png)
+
 ## Features
 
 - **Multi-Algorithm Detection**: Identifies multiple possible hash types for ambiguous hashes (e.g., MD5 vs NTLM)
