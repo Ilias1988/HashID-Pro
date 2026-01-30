@@ -38,7 +38,7 @@ A powerful command-line hash identification tool that analyzes hash strings and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/HashID-Pro.git
+git clone https://github.com/Ilias1988/HashID-Pro.git
 cd HashID-Pro
 ```
 
